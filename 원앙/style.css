@@ -1,0 +1,14 @@
+#main{
+  float: right;
+  width: 70%;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+#sidebar{
+  float: left;
+  width: 30%;
+  padding: 10px;
+  border-right: 2px solid black;
+  box-sizing: border-box;
+}
